@@ -24,5 +24,3 @@ We have full documentation on how to get started contributing here:
 
 - [Slack channel](https://kubernetes.slack.com/messages/sig-cli)
 - [Mailing list](https://groups.google.com/forum/#!forum/kubernetes-sig-cli)
-
-test
